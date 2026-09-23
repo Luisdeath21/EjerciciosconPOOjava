@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/*El programa funciona como una calculadora hecha con POO en java organizada por partes
+    cada operacion tiene su propio metodo y se ejecuta la que el usuario elija 
+    sumar , restar, multiplicar o dividir lo mas importante es que el metodo main queda bien
+    limpio solo crea el objeto y llama a ejecutar sin tener todo el codigo amontonado ahi*/
 public class Calculadora {
 
     public double valor1 = 0;
